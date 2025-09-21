@@ -1,5 +1,5 @@
 # Smart-Crop-Recommendation-System
-Crop Recommendation system using Blended XGBoost and SVM machine learning models
+Crop Recommendation system using  machine learning models
 ## Features
 - Predicts the most suitable crop to grow based on soil and environmental conditions.
 - Utilizes a hybrid approach combining XGBoost and SVM for accurate predictions.
