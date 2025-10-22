@@ -2,7 +2,7 @@
 Crop Recommendation system using  machine learning models
 ## Features
 - Predicts the most suitable crop to grow based on soil and environmental conditions.
-- Utilizes a hybrid approach combining XGBoost and SVM for accurate predictions.
+- Utilizes a hybrid approach of SVM for accurate predictions.
 - Easy-to-use interface for farmers and agricultural experts.
 
 ## Installation
